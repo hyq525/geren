@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 561387 */
+  src: url('https://at.alicdn.com/t/font_561387_kvlmnfb1zhqwipb9.eot');
+  src: url('https://at.alicdn.com/t/font_561387_kvlmnfb1zhqwipb9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alhttps:icdn.com/t/font_561387_kvlmnfb1zhqwipb9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_561387_kvlmnfb1zhqwipb9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_561387_kvlmnfb1zhqwipb9.svg#iconfont') format('svg');
+}
+.head{
+	width: 100%;
+	height: 1.38rem;
+	background-color: #3d3c37;
+	padding-top: .53rem;
+	padding-left: .43rem;
+	padding-right: .49rem;
+}
+.head_left{
+	width: 0.53rem;
+	height: 0.53rem;
+	float: left;
+/* 	background-color: pink; */
+
+}
+.head_caidan{
+	font-family: 'iconfont';
+	font-size: 0.42rem;
+	color: #fff;
+}
+.username{
+	width: 100%;
+	height: 1.38rem;
+	padding: .45rem 0 .45rem .55rem;
+	border-bottom: 1px solid #dcdcdc;
+}
+.username12{
+	padding: .45rem 0 .45rem .25rem;
+}
+.user_name{
+	font-size: .48rem;
+	font-weight: bolder;
+	color: #000;
+	display: block;
+	float: left;
+	margin-top:-0.08rem;
+}
+.user_name_input{
+	font-size: .42rem;
+	font-weight: bold;
+	color: #dcdcdc;
+	display: block;
+	float: left;
+	border: none;
+	margin-left: .55rem;
+}
+.user_name_input12{
+	margin-left:0;
+}
+.user_name12{
+	letter-spacing: .17rem;
+}
+.user_name_input12{
+	margin-left: .35rem;
+}
+.user_name_input13{
+	width: 1.8rem;
+}
+.yanzhengma{
+	width: 2.43rem;
+	height: 1.06rem;
+	border-radius: .3rem;
+	border: .03rem solid #3f8803;
+	float: right;
+	margin-top: -0.75rem;
+	margin-right: .55rem;
+	line-height: 0.5rem;
+	text-align: center;
+}
+.yanzhengma span{
+	font-size: .38rem;
+	font-weight: bold;
+	color: #3f8803;
+}
+.zhuanji_list1_name_more{
+	color: #cbcdca;
+	font-size: .30rem;
+	font-weight: bolder;
+	float: right;
+	margin: 0 .57rem 0 0;
+}
+.fabu{
+	width: 9.13rem;
+	height: 1.32rem;
+	background-color: #ccc;
+	margin: 1.93rem auto 0;
+	text-align: center;
+	line-height: 1.32rem;
+}
+.fabu h3{
+	font-size: .6rem;
+	color: #666;
+}
